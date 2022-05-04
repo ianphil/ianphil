@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ianphil
+- 👀 I’m interested in lifting, MTB, building software
+- 🌱 I’m currently learning the energy sector and the software that helps run the place
+- 💞️ I’m looking to collaborate on tools that make the cloud easier
+- 📫 How to reach me: @protoian on twitter
