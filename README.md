@@ -4,4 +4,4 @@
 - 👀 I’m interested in the dynamics of systems and complexity.
 - 🌱 I’m an Engineering Manager @Microsoft, building another service in Azure...
 - 💞️ I’m looking to collaborate on tools that make the cloud easier
-- 📫 How to reach me: [@giantcomputerco](https://twitter.com/giantcomputerco) on twitter
+- 📫 How to reach me: [@ianphil_](https://twitter.com/ianphil_) on twitter
