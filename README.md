@@ -2,6 +2,7 @@
 
 - 👋 Hi, I’m @ianphil
 - 👨 I'm a husband and father of 3
+- ✝️ Matthew 6:8 - Don't be like them...
 - 👀 I’m interested in the dynamics of systems and complexity
 - 🌱 I’m an Engineering Manager @Microsoft
 - 🛠️ I've built: Azure Media Services, Azure Data Manager for Energy
